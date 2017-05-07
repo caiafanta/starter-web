@@ -10,6 +10,8 @@ Example to show us how to diff
 
 ## Purpose
 
+More information added
+
 ## Deployment
 
 ## How to Contribute
