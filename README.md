@@ -6,7 +6,7 @@ Pretty simple stuffs here.
 
 ## Introduction
 
-Sample website with plenty of files for demos
+Example to show us how to diff
 
 ## Purpose
 
