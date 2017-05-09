@@ -7,6 +7,7 @@ Pretty simple stuffs here.
 ## Introduction
 
 Example to show us how to diff
+Please fork this reposutory and ...
 
 ## Purpose
 
