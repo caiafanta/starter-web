@@ -20,3 +20,5 @@ fjdksjfdjsakljfdlasjl
 ## How to Contribute
 
 2017 Git.Training.  All right reserve
+
+More information
